@@ -154,9 +154,9 @@ Provides local explanations by highlighting significant image superpixels.
 
 ## 👨‍💻 Author
 
-**Karan Gupta**
+**Karan Kumar Gupta**
 
-B.Tech Information Technology
+B.Tech Information Technology (2022-26)
 
 ---
 
